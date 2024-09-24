@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Zhanda
-- 👀 I’m interested in web development
-- 🌱 I’m studying on hexlet.io
+- 👋 Hey there, I'm Zhandapanda!
+- 👀 Passionate about web development and new tech
+- 🌱 Ready to bring your ideas to life with clean, efficient code
