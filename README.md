@@ -12,7 +12,7 @@ Currently, I'm pursuing an **M.S. in Computer Science — Artificial Intelligenc
 - ⚡ Experienced in **JavaScript, TypeScript, Python, React, Next.js, Node.js, and PHP**
 - 🌎 Based in the **United States 🇺🇸 / Kazakhstan 🇰🇿**
 - 🤝 Open to **software engineering, AI projects, research, and collaborations**
-- 🌐 Portfolio: [zhanda.dev](http://www.zhanda.dev)
+- 🌐 Blog: [zhanda.dev](http://www.zhanda.dev)
 - 📫 Email: [zh.zhanybek@gmail.com](mailto:zh.zhanybek@gmail.com)
 
 ---
